@@ -1,0 +1,9 @@
+# Ide's
+.idea/
+.vscode/
+
+# Data & Logs
+data/
+
+# Environment
+.env
